@@ -6,7 +6,8 @@ Sobre mim
 💻 Estudante de Ciência da Computação
 🤖 Gosto de mexer com backend e tenho interesse em IA
 
-Tecnologias
+![image](https://github.com/user-attachments/assets/f3984f35-208f-4c1c-9ae4-07cb2e5cc182)
+ Tecnologias
 <br>
 Java <img src="https://github.com/user-attachments/assets/ad7cdf35-40d5-49ff-86b9-a77002a484ba" style="vertical-align: middle; width: 25px;">
 <br>
