@@ -20,7 +20,7 @@ Python <img src="https://github.com/user-attachments/assets/98f59e15-6119-4b77-b
 SQL <img src="https://github.com/user-attachments/assets/5fd87bed-bebf-45a1-8d44-2148a535ed68" style="vertical-align: middle; width: 25px;">
 <br>
 
-C# <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+C# <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" style="vertical-align: middle; width: 25px;"/>
           
 
 💼 Meus projetos
