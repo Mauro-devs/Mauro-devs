@@ -6,7 +6,9 @@ Neste github vocês irão encontrar projetos relacionados a faculdade e projetos
 Tecnologias:
 <br>
 
-<i class="devicon-java-plain-wordmark colored"></i>  
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 Oracle SQL
 <br>
 Java
