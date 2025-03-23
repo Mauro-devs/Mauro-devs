@@ -5,6 +5,8 @@ Neste github vocês irão encontrar projetos relacionados a faculdade e projetos
 
 Tecnologias:
 <br>
+
+<i class="devicon-java-plain-wordmark colored"></i>  
 Oracle SQL
 <br>
 Java
