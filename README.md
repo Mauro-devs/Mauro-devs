@@ -1,7 +1,19 @@
-
-<h4>Bem vindo ao meu perfil, me chamo Mauro e estou cursando Ciência da Computação.<br>
+<br>
+<h3>😄 Bem vindo ao meu perfil, me chamo Mauro e estou cursando Ciência da Computação.<br>
 Neste github vocês irão encontrar projetos relacionados a faculdade e projetos pessoais desenvolvidos.<br>
-</h4>
+</h3>
+<br>
+<h2>Sobre mim</h2>
+<p>
+ 💻 Gosto de Back-end
+</p>
+<p>
+  🤓 Apaixonado por tecnologia
+</p>
+<p>
+  🤖 Interessado por IA, ML e DL
+</p>
+<br>
 <h2> Tecnologias: </h2>
 <br>
 <p align="left">
@@ -19,3 +31,8 @@ Neste github vocês irão encontrar projetos relacionados a faculdade e projetos
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="25" height="25"/> &nbsp;- CSS  
 </p>
+<br>
+<h2>
+  Me encontre
+</h2>
+<a href = "https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSMTSGfdVKxKKDtBSBbQzMBtcLJPdgrtpLnXSXRxPzrtgnNhnRwSKsSLsfNQNjBvDBqNrRxF"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a>
