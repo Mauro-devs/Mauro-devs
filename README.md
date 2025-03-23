@@ -4,5 +4,14 @@ Neste github vocês irão encontrar projetos relacionados a faculdade e projetos
 
 
 Tecnologias
+<br>
 Oracle SQL
+<br>
 Java
+<br>
+Python
+<br>
+HTML
+<br>
+CSS
+<br>
