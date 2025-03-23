@@ -1,6 +1,6 @@
 
 <h4>Bem vindo ao meu perfil, me chamo Mauro e estou cursando Ciência da Computação.<br>
-Neste github vocês irão encontrar projetos relacionados a faculdade e projetos pessoais desenvolvidos<br>
+Neste github vocês irão encontrar projetos relacionados a faculdade e projetos pessoais desenvolvidos.<br>
 </h4>
 <h2> Tecnologias: </h2>
 <br>
