@@ -14,7 +14,7 @@ Neste github vocês irão encontrar projetos relacionados a faculdade e projetos
   🤖 Interessado por IA, ML e DL
 </p>
 <p>
- 📖 Aprendendo Spring Boot no momento
+ 📖 Aprendendo visão computacional no momento
 </p>
 <br>
 <h2> Tecnologias: </h2>
